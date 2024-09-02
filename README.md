@@ -62,8 +62,7 @@ I would like to express my sincere gratitude to the following:
 - **[Patorjk.com ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20):** For providing customizable ASCII art that added a creative touch to this project.
 
 ### Personal Insights
-
-Working on this project allowed me to deepen my understanding of numerical base systems and Python programming. The tools and resources mentioned above played a significant role in making this learning experience both enriching and enjoyable.
+Creating this BMI Calculator helped me to strengthen my Python skills and deepen my understanding of basic health metrics. It was an enjoyable experience to apply programming to a real-world problem.
 
 
 ## Purpose of creation
